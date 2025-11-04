@@ -1,0 +1,32 @@
+                                
+          HOTEL COMBUGAS S.A.S  
+            NIT: 900139412-4    
+              TEL:3205417916    
+               CARTAGENA        
+        DG 31D N.32A-25B.TERNERA
+    -----------------------------------
+    Fecha Ingreso: 29-01-2025 08:15 AM
+    Fecha Salida: 29-01-2025 11:01 AM
+    Turno: 472                  
+    Numero Habitacion: 25       
+    Numero Noches: 1            
+    Costo Alojamiento: $80000   
+    -----------------------------------
+    Cliente: roxana caceres quiñonez
+    Razon Social: caceres quiñonez roxana
+    NIT/C.C: 1096224126         
+    Correo: roxanaroxanacac@hotmai.com
+    -----------------------------------
+    Concepto: Hospedaje         
+    Subtotal: $80000            
+    Antes de IVA: $67226        
+    IVA 19%: $12772             
+                                
+                                
+    Total: $0                   
+    Total a Pagar: $80000       
+    -----------------------------------
+    Empleado: alexander nieves romero
+    -----------------------------------
+                                
+VAVAVAVAVAVAVAVAVAVAVAVAVAVA
