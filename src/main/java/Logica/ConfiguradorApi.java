@@ -17,7 +17,7 @@ public class ConfiguradorApi {
         propiedades = new Properties();
         try {
             // Ruta del archivo externo
-            String ruta = "C:\\Conexion\\config.properties"; // ← Cambia esta ruta según tu sistema
+            String ruta = "E:\\Conexion\\config.properties"; // ← Cambia esta ruta según tu sistema
             File archivo = new File(ruta);
 
             if (!archivo.exists()) {

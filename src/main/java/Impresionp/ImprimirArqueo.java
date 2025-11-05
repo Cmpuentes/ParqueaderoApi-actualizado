@@ -1,4 +1,4 @@
-package ImpresionP;
+package Impresionp;
 
 import DatosP.Dingresop;
 import Logica.ConfiguradorApi;
